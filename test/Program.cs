@@ -28,7 +28,7 @@ namespace practise
                         Console.WriteLine("Output : You can fly your kite");
                     }
                 }
-                if (myDeserializedClass.current.uv_index > 3)
+                if (myDeserializedClass.current.uv_index > 3)//ok
                 {
                     Console.WriteLine("Output : don't foget to wear The sunscreen");
                 }
